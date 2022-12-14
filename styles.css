@@ -1,0 +1,41 @@
+* {
+  text-align: center;
+}
+
+body{
+  background-color: #bbb;
+}
+
+.logo img{
+  padding-top: 20px;
+}
+
+.input input {
+  margin-top: 50px;
+  color: black;
+  text-align: center;
+  font-size: larger;
+  font-weight: 600;
+  width: 50%;
+}
+
+.input button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: black;
+  text-align: center;
+  font-size: larger;
+  font-weight: 600;
+  width: 20%;
+}
+
+
+.output p {
+  margin: 50px auto;
+  text-align: center;
+  outline: 5px solid black;
+  color: black;
+  font-size: larger;
+  font-weight: 600;
+  width: 50%;
+}
